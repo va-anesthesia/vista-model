@@ -1,5 +1,5 @@
 ## fileman-schema
 
-Fileman is the database management system of the VHA Information Systems Technology and Architecture.
-Its model is a hierachical filestore, analogous to hierachical document store of present day JSON stores like MongoDB.
+Filema (File Manager) is the database management system of the VHA Information Systems Technology and Architecture (VISTA).
+Fileman's model is a hierachical filestore, analogous to hierachical document store of MongoDB and other JSON stores.
 
